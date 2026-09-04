@@ -24,7 +24,7 @@ The main gameplay loop is very basic:
 ## Tech Stack
 
 - **Engine:** Godot
-- **Language:** C#
+- **Language:** Python
 - **Genre:** Survival / Roguelite prototype
 
 ## Planned Features
