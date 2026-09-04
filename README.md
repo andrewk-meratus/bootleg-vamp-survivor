@@ -1,6 +1,6 @@
 # bootleg-vamp-survivor
 
-A small Vampire Survivors-style prototype made with Godot and C#.
+A small Vampire Survivors-style prototype made with Godot and Python.
 
 ## Current State
 
