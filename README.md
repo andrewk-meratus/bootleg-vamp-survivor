@@ -1,90 +1,53 @@
 # bootleg-vamp-survivor
 
-A bootleg Vampire Survivors-style survival game made entirely in Python.
+A small Vampire Survivors-style prototype made with Godot and C#.
 
-## About
+## Current State
 
-`bootleg-vamp-survivor` is a small bullet-heaven / survival roguelite inspired by games like Vampire Survivors.
+This is currently just a prototype.
 
-The concept is simple: survive increasingly ridiculous waves of enemies, collect experience, level up, obtain upgrades, and try not to die.
+The main gameplay loop is very basic:
 
-## Tech Stack
-
-* **Language:** Python
-* **Genre:** Survival / Roguelite / Bullet Heaven
-
-## Features
-
-* Player movement
-* Automatic combat
-* Enemy spawning
-* Enemy waves
-* Experience collection
-* Leveling system
-* Weapon and character upgrades
-* Increasing difficulty
-* Survival-based gameplay
+- Move the player around
+- Automatically shoot enemies
+- Enemies spawn and can be attacked
 
 ## Controls
 
-| Action     | Key       |
-| ---------- | --------- |
-| Move Up    | `W` / `↑` |
-| Move Down  | `S` / `↓` |
-| Move Left  | `A` / `←` |
+| Action | Keys |
+|---|---|
+| Move Up | `W` / `↑` |
+| Move Down | `S` / `↓` |
+| Move Left | `A` / `←` |
 | Move Right | `D` / `→` |
 
-## Running the Game
+## Tech Stack
 
-Clone the repository and install the required dependencies:
+- **Engine:** Godot
+- **Language:** C#
+- **Genre:** Survival / Roguelite prototype
 
-```bash
-git clone <repository-url>
-cd bootleg-vamp-survivor
-pip install -r requirements.txt
-```
+## Planned Features
 
-Run the game:
+- [ ] Experience system
+- [ ] Leveling
+- [ ] Multiple weapons
+- [ ] Weapon upgrades
+- [ ] Multiple enemy types
+- [ ] Enemy scaling
+- [ ] Bosses
+- [ ] Health system
+- [ ] Character upgrades
+- [ ] UI
+- [ ] Sound effects
+- [ ] Music
+- [ ] Visual effects
+- [ ] More gameplay systems
 
-```bash
-python main.py
-```
+## Development
 
-## Project Structure
-
-```text
-bootleg-vamp-survivor/
-├── main.py
-├── requirements.txt
-├── README.md
-└── src/
-    ├── player.py
-    ├── enemy.py
-    ├── weapon.py
-    └── ...
-```
-
-## Roadmap
-
-* [ ] Player movement
-* [ ] Enemy spawning
-* [ ] Combat system
-* [ ] Experience system
-* [ ] Level-up system
-* [ ] Multiple weapons
-* [ ] Multiple enemy types
-* [ ] Bosses
-* [ ] Wave system
-* [ ] Upgrade system
-* [ ] UI
-* [ ] Sound effects
-* [ ] Music
-* [ ] More chaos
+This is a personal prototype and learning project. Features and systems will be added and changed as development continues.
 
 ## Disclaimer
 
-This is a fan-made learning project inspired by the survival/bullet-heaven genre.
-
-It is not affiliated with Vampire Survivors or its developers.
-
-The name is intentionally bootleg.
+This is an unofficial fan-made project inspired by the Vampire Survivors genre.
