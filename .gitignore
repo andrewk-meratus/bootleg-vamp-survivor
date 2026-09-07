@@ -1,0 +1,11 @@
+# Godot generated files
+.godot/
+
+# Godot MCP plugin - local only
+addons/godot-mcp/
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/

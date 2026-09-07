@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bootleg-vampire-survivor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d8bd92a334f52ccaea442d9732a2b7bb96f697d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+302a528b421ab24d92d06c86d7bab59c9aa6510a")]
 [assembly: System.Reflection.AssemblyProductAttribute("bootleg-vampire-survivor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bootleg-vampire-survivor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
