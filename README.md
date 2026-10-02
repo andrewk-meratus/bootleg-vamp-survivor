@@ -1,6 +1,6 @@
 # bootleg-vamp-survivor
 
-A small Vampire Survivors-style prototype made with Godot and Python.
+A small Vampire Survivors-style prototype made with Godot and C#.
 
 ## Current State
 
@@ -24,7 +24,7 @@ The main gameplay loop is very basic:
 ## Tech Stack
 
 - **Engine:** Godot
-- **Language:** Python
+- **Language:** C#
 - **Genre:** Survival / Roguelite prototype
 
 ## Planned Features
