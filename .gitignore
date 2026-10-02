@@ -9,3 +9,9 @@ addons/godot-mcp/
 
 # VS Code
 .vscode/
+
+# .NET / Mono build artifacts
+bin/
+obj/
+*.sln
+*.csproj
